@@ -1,9 +1,9 @@
 # npm
-node_modules
+node_modules/
 
 # Parcel
-.cache
-dist
+/.cache/
+/dist/
 
 # TypeScript
-.ts-cache
+/.ts-cache/
